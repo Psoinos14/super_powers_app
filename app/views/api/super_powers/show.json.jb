@@ -1,0 +1,5 @@
+{
+  element: @super_power.element,
+  strength: @super_power.strength,
+  origin: @super_power.origin
+}
